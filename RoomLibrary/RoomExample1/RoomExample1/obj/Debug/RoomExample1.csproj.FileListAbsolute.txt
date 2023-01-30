@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\bin\Debug\RoomExample1.exe.config
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\bin\Debug\RoomExample1.exe
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\bin\Debug\RoomExample1.pdb
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\bin\Debug\RoomLibrary.dll
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\bin\Debug\RoomLibrary.pdb
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\App.g.cs
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1_MarkupCompile.cache
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1_MarkupCompile.lref
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1.g.resources
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1.Properties.Resources.resources
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1.csproj.CopyComplete
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1.exe
+C:\Users\student\source\repos\RoomLibrary\RoomExample1\RoomExample1\obj\Debug\RoomExample1.pdb
